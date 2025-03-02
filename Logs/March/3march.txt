@@ -1,0 +1,5 @@
+1. Self implementing Stack
+    a. Implemented using array : Data-Structures/Stack/array.cpp
+    b. Implemented using linked list : Data-Structures/Stack/linked-list.cpp
+
+
